@@ -1,0 +1,59 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    width: 40%;
+    margin: 0px auto;
+    padding: 10px;
+    
+}
+
+header h1{
+    margin-bottom: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+main{
+    width: 40%;
+    margin: 0px auto;
+    padding: 10px;
+  
+}
+
+tr:hover{
+    background-color: gray;
+}
+
+td:hover{
+    background-color: gold;
+    color: black;
+}
+
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    width: 100%;
+    text-align: left;
+}
+
+th{
+    background-color: black;
+    color: yellow;
+}
+
+footer{
+    width: 40%;
+    margin: 0px auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
