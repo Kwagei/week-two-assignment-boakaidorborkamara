@@ -1,0 +1,55 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    width: 70%;
+    margin: 0px auto;
+}
+ header{
+     background-color: orange;
+     text-align: center;
+     width: 96%;
+     padding: 20px;
+     border-bottom: 5px solid white;
+ }
+
+ aside{
+     background-color: green;
+     text-align: center;
+     padding: 20px;
+     width: 20%;
+     height: 500px;
+     float: left;
+     border-right: 5px solid white;
+ }
+
+ main{
+     background-color: yellow;
+     text-align: center;
+     padding: 20px;
+     width: 96%;
+     height: 420px;
+     
+     
+ }
+
+ section{
+     background-color: gray;
+     text-align: center;
+     padding: 20px;
+     width: 96%;
+     height: 34px;
+     border-top: 5px solid white;
+   
+ }
+
+ footer{
+     background-color: orangered;
+     text-align: center;
+     padding: 20px;
+     width: 96%;
+     border-top: 5px solid white;
+ }
